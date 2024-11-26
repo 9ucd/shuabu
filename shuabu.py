@@ -24,7 +24,7 @@ import json
 requests.urllib3.disable_warnings()
 
 # 初始化环境变量开头
-cs = 0
+cs = 2
 ZData = "5"
 ttoken = ""
 tuserid = ""
